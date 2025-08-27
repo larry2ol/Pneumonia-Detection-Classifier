@@ -20,8 +20,11 @@ This repository presents a deep learning solution for automated pneumonia detect
 
 - Recall and Precision metrics, which are suited for imbalanced datasets, evaluate the model's performance.
 
+## Deployment
+- https://pneumonia-detection-classifier.streamlit.app/
+
 ## What You Can Do With It
-- The project, deploy on Streamlit, will enable users to upload X-ray medical images (in JPEG, JPG, or PNG format) online, allowing the application to detect whether the image is normal or infected with pneumonia within the margin of error 
+- The project, deploy on Streamlit, enable users to upload X-ray medical images (in JPEG, JPG, or PNG format) online, allowing the application to detect whether the image is normal or infected with pneumonia within the margin of error 
 
 ## Acknowledgements
 - This project, while inspired by SuperDataScience's work, is an independent undertaking completed with permission. 
