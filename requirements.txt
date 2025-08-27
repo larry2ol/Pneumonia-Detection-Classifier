@@ -36,7 +36,8 @@ streamlit==1.49.0
 sympy==1.13.3
 tenacity==9.1.2
 toml==0.10.2
-torch==2.8.0+cpu
+#torch==2.8.0+cpu
+torch==2.8.0+cpu-f https://download.pytorch.org/whl/torch_stable.html
 torchaudio==2.8.0+cpu
 torchvision==0.23.0+cpu
 tornado==6.5.2
@@ -44,3 +45,4 @@ typing_extensions==4.12.2
 tzdata==2025.2
 urllib3==2.5.0
 watchdog==6.0.0
+
